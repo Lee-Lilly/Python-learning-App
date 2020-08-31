@@ -1,0 +1,24 @@
+Python learning application.
+
+## Getting Started
+
+This project is a starting point for python learning.
+
+Title: Nutrition App
+
+python_learning_07_8 covered topics:
+
+	1. While loop and if/elif conditional statement
+	
+python_learning_07_8 implementation:
+	
+	1. Define a main menu function as program entry prompting usr choice.
+	2. User can choose to 'add' food item, or 'print' food list, or 'quit'.
+	4. Based on attained food list from user input, user can order sorted list.
+	3. Define a print menu for user to choose comparators for sorting the list.
+		
+python_learning_07_8 remarks:	
+	
+	1. Removed class "Food".
+	2. Print out value of instance of "Food" need be "instance.food['key']". 
+	3. Not sure how to use itemgetter(key) in case list of class object.

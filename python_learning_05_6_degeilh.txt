@@ -1,0 +1,31 @@
+Python learning application.
+
+## Getting Started
+
+This project is a starting point for python learning.
+
+Title: Nutrition App
+
+python_learning_05_6 covered topics:
+	
+	1. Adding new key-value pairs
+	2. Accessing values of certain key
+	3. Looping through a dictionary
+	4. Nesting- A list of dictionaries
+	5. Sorting a list of dictionaries by certain values as comparators
+	
+python_learning_05_6 implementation:
+	
+	1. Define a usr input function, where data can added to an empty dictionary.
+	2. Add new key-value pairs to initial dictionary
+	3. Attained dictionary is added to "food_bank" list as food items.
+	4. Loop through a list of dictionaries, print all food items {key: value}
+	5. Sort "food_bank" list by comparing certain values in dictionary, using itemgetter(keys).	
+		
+python_learning_05_6 remarks:	
+	
+	1. Removed class "Food", all operations are on dictionary.
+	2. Imported module itemgetter from operator
+	
+	
+	

@@ -1,0 +1,29 @@
+Python learning application.
+
+## Getting Started
+
+This project is a starting point for python learning.
+
+Title: Nutrition App
+
+python_learning_03 covered topics:
+	1. Define List
+	2. Adding elements to List
+	3. Sorting a List
+	4. Looping through a List 
+
+python_learning_03 implementation:
+	1. Initial an empty list "food_bank" for food items
+	2. Add item to "food_bank" by declared food_item variable
+	3. Add item to "food_bank" by user input (see version 2)
+	4. Declare list of "categories" for food category
+	5. Add item to "categories"
+	6. Sort the list "categories" in Alphabetic order for user input convenience
+	
+python_learning_03 remarks:
+	
+	1. print out format has been defined in Class Food (see version 2)
+	
+	
+	
+	

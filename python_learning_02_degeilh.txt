@@ -1,0 +1,31 @@
+Python learning application.
+
+## Getting Started
+
+This project is a starting point for python learning.
+
+Title: Nutrition App
+
+python_learning_02 covered topics:
+	1. Class
+	2. Function
+	3. User input
+
+python_learning_02 implementation:
+	1. Class "Food" (constructor with named parameters)
+	2. Define Class representation format (instance print out format)
+	
+	3. Function: input_data (get food data from user input)
+	4. Return from input_data (name, category, nutrition_panel)
+	
+	5. Construct nutrition_panel dictionary by user input (key/value pair) 
+	6. Print out class instance
+	
+python_learning_02 remarks:
+	
+	1. Now "food.name" is working, because 'food' is an instance of Class.
+	Instead, "food['name']" is not subscriptable.
+	
+	
+	
+	

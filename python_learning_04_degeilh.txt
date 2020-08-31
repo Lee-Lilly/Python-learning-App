@@ -1,0 +1,26 @@
+Python learning application.
+
+## Getting Started
+
+This project is a starting point for python learning.
+
+Title: Nutrition App
+
+python_learning_04 covered topics:
+	1. List Comprehension
+	2. Simple Statistics of list
+
+python_learning_04 implementation:
+	1. Based on "food_bank" list obtained from user input (see version 3)
+	2. Loop through "food_bank" list, extract 'Fat(g)' and 'Energy(kcal)' values.
+	3. Generate two lists of data: fat_index , energy_index
+	4. Calculate minum, maxmum and total of all values in the lists.
+		
+python_learning_03 remarks:	
+	
+	1. Modified named parameter "nutrition_panel" to "nutrition".
+	2. For User input, the keys are added with quantity measures.
+	3. print string concatenation of float value must be "str(float_value)"
+	
+	
+	
